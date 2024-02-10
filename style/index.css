@@ -1,0 +1,22 @@
+a:visited{
+    background-color: lightpink;
+}
+
+a:hover{
+    background-color: rgb(219, 135, 205);
+
+}
+a:active{
+    background-color: blueviolet;
+}
+a{
+    background-color: aqua;
+    border: 1px solid;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    height: 30px;
+    width: 120px;
+    text-align: center;
+    padding-top: 15px;
+}
